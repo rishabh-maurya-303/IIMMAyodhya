@@ -16,13 +16,14 @@
     background-size: cover;
 }
 
-#contact .col-sm-12
+#contact .col-12
 {
   display: flex;
   align-items: center;
   justify-content: center;
   color: white;
   /* background-color: #00000091; */
+  height: 350px;;
   backdrop-filter: blur(10px);
 }
 
